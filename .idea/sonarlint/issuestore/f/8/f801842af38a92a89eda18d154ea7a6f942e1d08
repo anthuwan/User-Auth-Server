@@ -1,0 +1,4 @@
+
+nsquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ
+É%squid:RedundantThrowsDeclarationCheck"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(›ÕÇ«úÿÿÿÿ
+¼squid:S1598"¤This file "UserServiceImpl.java" should be located in "com\user\auth\server\service\impl" directory, not in "C:\Users\anthuwan.p\Downloads\spring-boot-security-oauth2-master\User-Auth-Server\User-Auth-Admin\src\main\java\com.user.auth.server\service\impl"(Do not use dots in directory names).(èµÞš

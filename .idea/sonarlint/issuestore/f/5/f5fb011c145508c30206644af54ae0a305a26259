@@ -1,0 +1,13 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(˜¼‹…ıÿÿÿÿ
+§squid:S1598"This file "AESenc.java" should be located in "com\user\auth\server\config" directory, not in "C:\Users\anthuwan.p\Downloads\spring-boot-security-oauth2-master\User-Auth-Server\User-Auth-Admin\src\main\java\com.user.auth.server\config"(Do not use dots in directory names).(‡—æ©
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148'"#Use a logger to log this exception.(Ç’Çê
+Qsquid:S1118	":Add a private constructor to hide the implicit public one.(õè½
+wsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( €¢ıÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆğùŠ
+Usquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(˜¼‹…ıÿÿÿÿ
+Usquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(­Å´ëùÿÿÿÿ
+Usquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(˜¼‹…ıÿÿÿÿ
+Usquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(­Å´ëùÿÿÿÿ

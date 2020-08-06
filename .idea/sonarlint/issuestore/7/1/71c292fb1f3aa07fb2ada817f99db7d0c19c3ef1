@@ -1,0 +1,4 @@
+
+˜squid:UselessImportCheck"hRemove this unused import 'org.springframework.security.oauth2.provider.token.store.InMemoryTokenStore'.(²¤µÒùÿÿÿÿ8¾•ò”¼.
+„squid:UselessImportCheck"ZRemove this unused import 'org.springframework.security.oauth2.provider.token.TokenStore'.(òÉÖ8¾•ò”¼.
+¯squid:S1598"—This file "SecurityConfig.java" should be located in "com\user\auth\server\config" directory, not in "C:\Users\anthuwan.p\Downloads\spring-boot-security-oauth2-master\User-Auth-Server\User-Auth-Admin\src\main\java\com.user.auth.server\config"(Do not use dots in directory names).(‡—æ©

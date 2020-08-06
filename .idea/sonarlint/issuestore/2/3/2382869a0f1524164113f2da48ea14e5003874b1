@@ -1,0 +1,6 @@
+
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•´ªÂÿÿÿÿÿ8åıÏ”¼.
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä€¥¨8åıÏ”¼.
+¼squid:S1598"ŸThis file "UserController.java" should be located in "com\user\auth\server\controller" directory, not in "C:\Users\anthuwan.p\Downloads\spring-boot-security-oauth2-master\User-Auth-Server\User-Auth-Admin\src\main\java\com.user.auth.server\controller"(Do not use dots in directory names).(ÂÏôûÿÿÿÿ
+squid:UselessImportCheck"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8åıÏ”¼.
+csquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(•ÁÃ«øÿÿÿÿ8ù¯¤–¼.

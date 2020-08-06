@@ -1,0 +1,3 @@
+rootProject.name = 'User-Auth-Server'
+include 'User-Auth-Admin'
+

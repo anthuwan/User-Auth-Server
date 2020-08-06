@@ -1,0 +1,19 @@
+
+security:
+  oauth2:
+      resource:
+          filter-order: 3
+jwt:
+  key: MjWP5L7CiD
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/testuser
+    username: root
+    password:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
